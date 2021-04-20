@@ -92,7 +92,7 @@ https://nodejs.org/en/download/
     #Clone repo from github
     git clone https://github.com/joaopealves/Inmana.git
 
-    #Entry in Rocketpay folder
+    #Entry in Inmana folder
     cd Inmana
 
     #Install deps
