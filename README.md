@@ -85,15 +85,15 @@ https://nodejs.org/en/download/
 
 </br>
 
-## Install Rocketpay
+## Install Inmana
 
     --Open terminal--
 
     #Clone repo from github
-    git clone https://github.com/joaopealves/Rocketpay.git
+    git clone https://github.com/joaopealves/Inmana.git
 
     #Entry in Rocketpay folder
-    cd Rocketpay
+    cd Inmana
 
     #Install deps
     mix deps.get
