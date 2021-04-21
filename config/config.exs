@@ -14,6 +14,7 @@ config :inmana, Inmana.Repo,
   migration_primary_key: [type: :binary_id],
   migration_foreign_key: [type: :binary_id]
 
+config :inmana, Inmana.Mailer, adapter: Bamboo.LocalAdapter
 # Configures the endpoint
 config :inmana, InmanaWeb.Endpoint,
   url: [host: "localhost"],
