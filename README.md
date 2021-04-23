@@ -2,10 +2,9 @@
 
 <p align="center"><img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-ar21.svg"/></p>
 
-<center>
+<p align="center">
 <img  alt="Inmana-logo" src="./git-docs/Inmana-logo.png">
-</center>
-
+</p>
 <h4 align="center">NextLevelWeek 5.0 🚀</h4>
 <h4 align="center">Application made during a NLW, made with love by @Rocketseat 💜</h4>
 
@@ -45,6 +44,7 @@ This project uses to work:
 - [Bcrypt](https://github.com/riverrun/bcrypt_elixir)
 - [Credo](https://github.com/rrrene/credo)
 - [ExCoveralls](https://github.com/parroty/excoveralls)
+- [Bamboo](https://github.com/thoughtbot/bamboo)
 
 <br>
 <h2 id="install">
