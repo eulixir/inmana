@@ -10,7 +10,7 @@ defmodule InmanaWeb.RestaurantsController do
   def create(conn, params) do
     with {:ok, %Restaurant{} = restaurant} <- Inmana.create_restaurant(params) do
       conn
-      |> put_status(:ok)
+      |> put_status(:created)
       |> render("create.json", restaurant: restaurant)
     end
   end
